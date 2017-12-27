@@ -5,7 +5,15 @@
 ---
 
 <div>
-<img src="https://github.com/LiuXiaolong19920720/Add-Christmas-Hat/blob/master/output.jpg" width="70%">
+<img src="https://github.com/tanzhenxin/Add-Christmas-Hat/blob/master/output1.jpg" width="70%">
+</div>
+
+<div>
+<img src="https://github.com/tanzhenxin/Add-Christmas-Hat/blob/master/output2.jpg" width="70%">
+</div>
+
+<div>
+<img src="https://github.com/tanzhenxin/Add-Christmas-Hat/blob/master/output3.jpg" width="70%">
 </div>
 
 ---
